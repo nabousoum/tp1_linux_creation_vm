@@ -1,0 +1,1 @@
+{"virtualbox":{"/opt/data/webapps":{"guestpath":"/opt/data/webapps","hostpath":"C:/Users/SeynabouSOUMARE/OneDrive - INENI/Documents/isi/tp1_devops/tomcatwebapps","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"C:/Users/SeynabouSOUMARE/OneDrive - INENI/Documents/isi/tp1_devops","disabled":false,"__vagrantfile":true}}}
