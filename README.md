@@ -5,3 +5,6 @@
 ![Capture d'écran 2025-02-17 114430](https://github.com/user-attachments/assets/8a98bb95-e0fd-4e54-bd3b-2e2197fb172c)
 ![Capture d'écran 2025-02-17 114441](https://github.com/user-attachments/assets/cb94ae0a-d69a-4ed0-abdc-7f030ca1bcc9)
 ![Capture d'écran 2025-02-17 114509](https://github.com/user-attachments/assets/0c4e1a60-e7db-4634-9c11-1d6145c4854c)
+
+### Auteur
+👤 Seynabou SOUMARE 📧 seynabou@groupeisi.com
